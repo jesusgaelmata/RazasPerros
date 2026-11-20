@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Razas de Perros</string>
+
+    <!-- Pantalla de inicio (revisión 1) -->
+    <string name="boton_ver_razas">Ver razas</string>
+
+    <!-- Pantalla 1: lista de razas -->
+    <string name="titulo_lista">Razas de perros</string>
+    <string name="subtitulo_lista">Elige una raza para ver su información</string>
+    <string name="cargando">Cargando razas…</string>
+    <string name="error_carga">No se pudieron cargar las razas. Revisa tu conexión a internet.</string>
+    <string name="logo_descripcion">Logo de Razas de Perros</string>
+
+    <!-- Pantalla 2: detalle de la raza -->
+    <string name="regresar">Regresar</string>
+    <string name="etiqueta_grupo">Grupo</string>
+    <string name="etiqueta_criado_para">Criado para</string>
+    <string name="etiqueta_temperamento">Temperamento</string>
+    <string name="etiqueta_esperanza_vida">Esperanza de vida</string>
+    <string name="etiqueta_peso">Peso</string>
+    <string name="etiqueta_altura">Altura</string>
+    <string name="etiqueta_origen">Origen</string>
+    <string name="sin_informacion">Sin información</string>
+    <string name="formato_peso">%1$s kg</string>
+    <string name="formato_altura">%1$s cm</string>
+</resources>
